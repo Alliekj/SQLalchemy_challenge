@@ -1,6 +1,6 @@
 
 Overview:
-This project involves performing a basic climate analysis and data exploration of a climate database using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib. Additionally, a Flask API is created to serve the analysis results. The tasks are divided into two main parts: data analysis and designing a climate app.
+This project involves performing a basic climate analysis and data exploration of a climate database using Python and SQLAlchemy ORM queries, Pandas, and Matplotlib. Additionally, a Flask API is created to serve the analysis results. I used chatgpt to help me with the Flask portion. The tasks are divided into two main parts: data analysis and designing a climate app.
 
 Data Analysis:
 -Precipitation Analysis
